@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=amount
+comment1.target=java.lang.String\ generateRandomLetters(int)
+comment2.params=amount
+comment2.target=java.lang.String\ generateRandomNumbers(int)
+numComments=3
