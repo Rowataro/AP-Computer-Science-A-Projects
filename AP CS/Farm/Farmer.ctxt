@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Farmer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Farmer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Farmer()
+comment2.params=tool
+comment2.target=void\ interact(Tool)
+comment3.params=tool
+comment3.target=void\ enterBarn(Tool)
+comment4.params=item
+comment4.target=void\ interact(Misc)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
