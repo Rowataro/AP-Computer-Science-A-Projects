@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=array
+comment1.target=void\ enterValues(int[][])
+comment2.params=array
+comment2.target=void\ printArray(int[][])
+comment3.params=array\ min\ max
+comment3.target=void\ assignRandomValues(int[][],\ int,\ int)
+comment4.params=array
+comment4.target=int\ getTotal(int[][])
+comment5.params=array
+comment5.target=void\ printColumnSum(int[][])
+comment6.params=array
+comment6.target=void\ printLargestRow(int[][])
+numComments=7
