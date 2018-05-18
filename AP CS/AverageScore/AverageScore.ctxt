@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=scores
+comment1.target=void\ inputScores(java.util.ArrayList)
+comment2.params=scores
+comment2.target=double\ calculateAverage(java.util.ArrayList)
+comment3.params=average\ scores
+comment3.target=void\ printDeviance(double,\ java.util.ArrayList)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayListPrograms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ displayOptions()
+comment4.params=total\ list
+comment4.target=void\ fillInt(int,\ java.util.ArrayList)
+comment5.params=total\ list
+comment5.target=void\ fillDouble(int,\ java.util.ArrayList)
+comment6.params=list
+comment6.target=void\ sort(java.util.ArrayList)
+comment7.params=list
+comment7.target=double\ sum(java.util.ArrayList)
+comment8.params=list
+comment8.target=void\ removeDuplicate(java.util.ArrayList)
+numComments=9
