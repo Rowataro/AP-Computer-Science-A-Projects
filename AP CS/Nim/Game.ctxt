@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=state
+comment0.target=void\ setVictory(boolean)
+comment1.params=
+comment1.target=boolean\ hasBeenWon()
+comment2.params=playerNames\ totalPlayers
+comment2.target=void\ setPlayers(java.lang.String[],\ int)
+comment3.params=pile\ players\ difficulty
+comment3.target=void\ play(Pile,\ Player[],\ boolean)
+comment4.params=pile
+comment4.target=int\ playerInput(Pile)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

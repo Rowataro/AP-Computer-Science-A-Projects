@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pile()
+comment1.params=
+comment1.target=int\ getMarbles()
+comment2.params=total
+comment2.target=void\ subtract(int)
+numComments=3

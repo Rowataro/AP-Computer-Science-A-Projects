@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=newName
+comment0.target=Player(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=pile
+comment2.target=int\ computerPlaysE(Pile)
+comment3.params=pile
+comment3.target=int\ computerPlaysH(Pile)
+numComments=4
