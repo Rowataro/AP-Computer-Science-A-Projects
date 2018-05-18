@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TotalLetters
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ addWords(java.util.ArrayList)
+comment3.params=list
+comment3.target=int\ getTotalLetters(java.util.ArrayList)
+numComments=4
