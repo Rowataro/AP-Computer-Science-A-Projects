@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=array
+comment1.target=int[]\ reverseThreeDigitNumbers(int[])
+comment2.params=number
+comment2.target=boolean\ isThreeDigits(int)
+comment3.params=number
+comment3.target=int\ reverseNumber(int)
+comment4.params=array
+comment4.target=int[]\ add150Or100(int[])
+comment5.params=array
+comment5.target=int[]\ minus113(int[])
+comment6.params=array
+comment6.target=int[]\ mod28(int[])
+comment7.params=array
+comment7.target=int[]\ add65Or6(int[])
+comment8.params=array
+comment8.target=java.lang.String\ printASCII(int[])
+numComments=9
