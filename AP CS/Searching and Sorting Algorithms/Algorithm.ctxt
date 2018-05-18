@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Algorithm
+comment0.text=\r\n\ Enumeration\ class\ Algorithm\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=displayNumber\ displayDescription\ sortedByKey\ name
+comment1.target=Algorithm(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getDisplayNumber()
+comment3.params=
+comment3.target=java.lang.String\ getDisplayDescription()
+comment4.params=
+comment4.target=java.lang.String\ getSortedByKey()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

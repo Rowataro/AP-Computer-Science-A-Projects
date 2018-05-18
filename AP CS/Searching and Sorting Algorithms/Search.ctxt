@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Search
+comment1.params=key\ library
+comment1.target=void\ doBinarySearch(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ precondition\:\r\n\ \ \ \ Array\ is\ sorted\ in\ ASCENDING\ order.\r\n\ postcondition\:\ \r\n\ \ \ \ Success\ flag\ and\ keyIndex\ set\ appropriately.\r\n\ Note\:\ \r\n\ \ \ \ Searches\ for\ author\ by\ LAST\ NAME\ in\ book\r\n
+comment2.params=key\ library
+comment2.target=void\ doLinearSearch(java.lang.String,\ java.util.ArrayList)
+comment2.text=\r\n\ precondition\:\r\n\ \ \ \ Array\ is\ sorted\ in\ ASCENDING\ order.\r\n\ postcondition\:\ \r\n\ \ \ \ Success\ flag\ and\ keyIndex\ set\ appropriately.\r\n\ Note\:\ \r\n\ \ \ \ Searches\ for\ title\ in\ book\ \r\n
+comment3.params=
+comment3.target=int\ getIndexOfLastKey()
+comment3.text=\r\n\ Indicate\ of\ the\ LAST\ search\r\n
+comment4.params=
+comment4.target=boolean\ wasSuccessful()
+comment4.text=\r\n\ Indicative\ of\ the\ LAST\ search\r\n
+numComments=5

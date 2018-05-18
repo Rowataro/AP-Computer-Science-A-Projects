@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayOptions()
+comment3.params=
+comment3.target=int\ getEnteredChoice()
+comment4.params=number
+comment4.target=Algorithm\ getAlgorithmByDisplayNumber(int)
+comment5.params=algorithm
+comment5.target=void\ doOption(Algorithm)
+comment6.params=
+comment6.target=java.lang.String\ getEnteredKey()
+comment7.params=milliseconds
+comment7.target=void\ printLibraryWithDelayInMS(int)
+comment8.params=
+comment8.target=void\ printLibraryWithIndices()
+numComments=9

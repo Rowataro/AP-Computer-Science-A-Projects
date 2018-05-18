@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StringManipulator
+comment0.text=\r\n\ String\ manipulator\ used\ for\ specific\ needs\ for\ libraryBook\ title\ and\ author\ \r\n\ strings\r\n
+comment1.params=unwantedWord\ endIndex\ title
+comment1.target=java.lang.String\ removeWordUpTo(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ precondition\:\ \r\n\ \ None\r\n\ postcondition\:\ \r\n\ \ If\ string\ contains\ word\ up\ to\ a\ certain\ index,\r\n\ \ then\ removeWordUpTo\ removes\ that\ word.\r\n\r\nExamples\:\r\n\ Use\ Case\ 1\:\r\n\ \ precondition\:\r\n\ \ \ \ \ \ unwantedWord\ \=\ "The\ ";\r\n\ \ \ \ \ \ int\ endIndex\ \=\ 3;\r\n\ \ \ \ \ \ title\ \=\ "The\ Things\ They\ Carried";\r\n\ \ postcondition\:\r\n\ \ \ \ \ \ returns\ "Things\ They\ Carried";\r\n\ Use\ Case\ 2\:\r\n\ \ precondition\:\r\n\ \ \ \ \ \ unwantedWord\ \=\ "The\ ";\r\n\ \ \ \ \ \ int\ endIndex\ \=\ 3;\r\n\ \ \ \ \ \ title\ \=\ "Where\ The\ Red\ Fern\ Grows"\r\n\ \ postcondition\:\r\n\ \ \ \ \ \ returns\ same\ title\r\n\ \ \ \ \ \ \ \ \ \ ("The\ "\ is\ not\ within\ the\ range\ of\ endIndex)\r\n
+comment2.params=word
+comment2.target=java.lang.String\ getLastWordOnly(java.lang.String)
+comment2.text=\r\n\ precondition\:\ \r\n\ \ none\r\n\ postcondition\:\ \r\n\ \ returns\ the\ very\ last\ word\ of\ the\ string.\ The\ last\ word\ is\ defined\ as\r\n\ \ the\ one\ after\ the\ last\ space.\r\nExamples\:\r\n\ \ Use\ Case\ 1\:\r\n\ precondition\:\r\n\ \ word\ \=\ "Tim\ O'Brien"\r\n\ postcondition\:\r\n\ \ returns\ "O'Brien"\r\n
+comment3.params=endIndex\ word
+comment3.target=int\ getFirstIndexOfSpaceEndingFrom(int,\ java.lang.String)
+numComments=4

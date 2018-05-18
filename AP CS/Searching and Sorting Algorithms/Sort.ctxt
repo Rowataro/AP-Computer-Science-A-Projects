@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Sort
+comment1.params=library
+comment1.target=java.util.ArrayList\ doSelectionSort(java.util.ArrayList)
+comment1.text=\r\n\ precondition\:\ \r\n\ \ Array\ is\ unsorted\ and\ is\ of\ n-length\r\n\ postcondition\:\ \r\n\ \ Array\ sorted\ in\ ASCENDING\ order\ by\ author's\ last\ name\r\n
+comment10.params=lowestIndex\ highestIndex\ library
+comment10.target=int\ getIndexFromPartition(int,\ int,\ java.util.ArrayList)
+comment2.params=startIndex\ library
+comment2.target=int\ getMinIndexStartingFrom(int,\ java.util.ArrayList)
+comment3.params=library
+comment3.target=java.util.ArrayList\ doInsertionSort(java.util.ArrayList)
+comment3.text=\r\n\ precondition\:\ \r\n\ \ Array\ is\ unsorted\ and\ is\ of\ n-length\r\n\ postcondition\:\ \r\n\ \ Array\ sorted\ in\ ASCENDING\ order\ by\ title\ \r\n
+comment4.params=unsortedValue\ endIndex\ library
+comment4.target=void\ insertValueEndingAt(LibraryBook,\ int,\ java.util.ArrayList)
+comment5.params=library
+comment5.target=java.util.ArrayList\ doMergeSort(java.util.ArrayList)
+comment5.text=\r\n\ preconditon\:\ \r\n\ \ lowestIndex\ <\ highestIndex.\ \r\n\ \ Array\ is\ unsorted\ and\ of\ n-length.\r\n\ postcondition\:\r\n\ \ Array\ sorted\ in\ ASCENDING\ order\ by\ copies.\r\n
+comment6.params=lowestIndex\ highestIndex\ library
+comment6.target=void\ mergeSortFromTo(int,\ int,\ java.util.ArrayList)
+comment7.params=lowestIndex\ middleIndex\ highestIndex\ library
+comment7.target=void\ merge(int,\ int,\ int,\ java.util.ArrayList)
+comment8.params=library
+comment8.target=java.util.ArrayList\ doQuickSort(java.util.ArrayList)
+comment9.params=lowestIndex\ highestIndex\ library
+comment9.target=void\ quickSortFromTo(int,\ int,\ java.util.ArrayList)
+comment9.text=\r\n\ preconditon\:\ \r\n\ \ lowestIndex\ <\ highestIndex.\ \r\n\ \ Array\ is\ unsorted\ and\ of\ n-length.\r\n\ postcondition\:\r\n\ \ Array\ sorted\ in\ ASCENDING\ order\ by\ copies.\r\n
+numComments=11

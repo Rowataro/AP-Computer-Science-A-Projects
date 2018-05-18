@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LibraryBook
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LibraryBook\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=book\ copies
+comment1.target=LibraryBook(Book,\ int)
+comment2.params=
+comment2.target=Book\ getBook()
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=int\ getNumPages()
+comment6.params=
+comment6.target=int\ getCopies()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
